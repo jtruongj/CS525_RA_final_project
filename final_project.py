@@ -1,8 +1,5 @@
 import numpy as np
-from time import time
-from tqdm import tqdm
 import matplotlib.pyplot as plt
-import networkx as nx
 
 class Graph:
     def __init__(self, n, k):
